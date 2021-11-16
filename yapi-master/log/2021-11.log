@@ -1,0 +1,5 @@
+[ 2021/11/16 下午2:06:59 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2021/11/16 下午2:07:00 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2021/11/16 下午2:07:00 ] [ error ] MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017, mongodb Authentication failed
+[ 2021/11/16 下午2:07:00 ] [ log ] mongodb load success...
